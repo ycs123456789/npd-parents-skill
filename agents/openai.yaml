@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "NPD父母对话模拟"
+  short_description: "模拟NPD型父母（自恋型人格障碍）的说话方式，沉浸式角色对话体验"
+  default_prompt: "使用 $npd-parents 技能，以NPD父母的身份与我对话，让我体验与NPD型父母交流的真实感受。"
